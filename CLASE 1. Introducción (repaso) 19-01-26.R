@@ -1,7 +1,7 @@
 #CLASE 1- INTRODUCCIÓN
 #Esta fue una clase de repaso de bioestadística
 
-#ESTO ES UNA MODIFICACIÓN DE PRUEBA PARA GITHUB 
+#ESTO ES UNA MODIFICACIÓN DE PRUEBA PARA GITHUB (2) 
 
 #RECORADTORIO
 #PARA INSTALAR PAQUETES: install.packages ("se pone el paquete entre comillas")
