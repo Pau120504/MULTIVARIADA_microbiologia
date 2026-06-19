@@ -1,6 +1,8 @@
 #CLASE 1- INTRODUCCIÓN
 #Esta fue una clase de repaso de bioestadística
 
+#ESTO ES UNA MODIFICACIÓN DE PRUEBA PARA GITHUB 
+
 #RECORADTORIO
 #PARA INSTALAR PAQUETES: install.packages ("se pone el paquete entre comillas")
 install.packages("Rmisc")
